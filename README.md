@@ -7,4 +7,4 @@ The google form that i generated for the project..
 <br>
 And Made it live in ClassRoom of around our classmates..
 
-![FP GROWTH GOOGLE FORM]("C:\Users\amarv\Downloads\fpgrowth.jpg")
+![FP GROWTH GOOGLE FORM](
